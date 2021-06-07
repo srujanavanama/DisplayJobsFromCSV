@@ -10,6 +10,14 @@ The detail view should include title, description, location, date and the list o
 The frontend should connect to the backend to request information. The backend should
 use a MySQL database to store and retrieve the relevant information.
 
+Tech Stack used for doing this project
+
+Front End - React JS
+
+Back End - Java 8/Spring Boot
+
+Database - MySQL
+
 jobs.csv
 
 job title,job description,date,location,applicants
